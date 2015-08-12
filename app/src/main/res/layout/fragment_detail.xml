@@ -42,7 +42,8 @@
                 android:layout_height="wrap_content"
                 android:scaleType="center"
                 android:layout_alignParentRight="true"
-                android:minHeight="275dp" />
+                android:minHeight="150dp"
+                android:paddingBottom="16dp"/>
             <TextView
                 android:id="@+id/detail_overview"
                 android:layout_width="match_parent"
